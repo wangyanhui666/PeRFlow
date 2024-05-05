@@ -1,8 +1,6 @@
-/data/
-/_exps_/
-_exps_/
-data/
-src/__pycache__/
+/_exps_
+/data
+/src/__pycache__
 
 .pt2
 .pt2_2
