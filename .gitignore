@@ -1,6 +1,5 @@
 /_exps_
 /data
-*.png
 /src/__pycache__
 
 .pt2
